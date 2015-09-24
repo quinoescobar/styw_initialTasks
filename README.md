@@ -14,13 +14,13 @@ NodeJS es un driven framework de eventos asincronos, esta diseñado para constru
 A continuación se muestran los pasos seguidos para su instalación:
 
 1. Se accedió a la página de [NodeJS](https://nodejs.org/en/download/package-manager/) y se siguieron los pasos indicados:
-![Alt text](../sytw/images/snode1.png)
+![nodejs](../sytw/images/snode1.png "nodejs")
 
 2. Se comprobó la correcta instalación del NodeJS:
-![Alt text](../sytw/images/s9.png)
+![nodejs2](../sytw/images/s9.png "nodejs2")
 
 3. Se comprobó la correcta instalación del npm:
-![Alt text](../sytw/images/s8.png)
+![nodejs3](../sytw/images/s8.png "nodejs3")
 
 
 
@@ -33,10 +33,10 @@ A continuación se muestran los pasos seguidos para su instalación:
 1. Se instaló NodeJS
 
 2. Se accedió a la página de [Express](http://expressjs.com/starter/installing.html) y se siguieron los pasos indicados:
-![Alt text](../sytw/images/s6.png)
+![Express](../sytw/images/s6.png "Express")
 
 3. Se comprobó la corracta instalación :
-![Alt text](../sytw/images/s66.png)
+![Express2](../sytw/images/s66.png "Express2")
 
 
 ##  Traductores
@@ -51,14 +51,16 @@ A continuación se muestran los pasos de instalción de Pandoc and Kramdown:
 
 2. Se utilizó el comando como Super: apt-get install Pandoc
 
-3. Se comprobó su correcta instalación:![Alt text](../sytw/images/s7.png)
+3. Se comprobó su correcta instalación:
+![Pandoc](../sytw/images/s7.png "Pandoc")
 
 ### Kramdown
 
 1. Se accedió a la página de [Kramdown](http://kramdown.gettalong.org/installation.html) y se siguieron los pasos indicados:
-![Alt text](../sytw/images/s12.png)
+![Kramdown](../sytw/images/s12.png "Kramdown")
 
-2. Se comprobó su correcta instalación:![Alt text](../sytw/images/s10.png)
+2. Se comprobó su correcta instalación:
+![Kramdown2](../sytw/images/s10.png "Kramdown2")
 
 ## Atom
 
@@ -69,4 +71,4 @@ Para su instalación se debe ir a la página de [Atom](https://atom.io/) y desca
 Atom se ha instalado en Windows, para trabajar desde fuera de la máquina virtual de Linux.
 
 Como se puede apreciar en la siguiente imagen.
-![Alt text](../sytw/images/s13.png)
+![sywt](../sytw/images/s13.png "sywt")
