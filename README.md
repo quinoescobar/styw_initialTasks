@@ -14,13 +14,13 @@ NodeJS es un driven framework de eventos asincronos, esta diseñado para constru
 A continuación se muestran los pasos seguidos para su instalación:
 
 1. Se accedió a la página de [NodeJS](https://nodejs.org/en/download/package-manager/) y se siguieron los pasos indicados:
-![nodejs](../sytw/images/snode1.png "nodejs")
+![nodejs](images/snode1.png "nodejs")
 
 2. Se comprobó la correcta instalación del NodeJS:
-![nodejs2](../sytw/images/s9.png "nodejs2")
+![nodejs2](images/s9.png "nodejs2")
 
 3. Se comprobó la correcta instalación del npm:
-![nodejs3](../sytw/images/s8.png "nodejs3")
+![nodejs3](images/s8.png "nodejs3")
 
 
 
@@ -33,10 +33,10 @@ A continuación se muestran los pasos seguidos para su instalación:
 1. Se instaló NodeJS
 
 2. Se accedió a la página de [Express](http://expressjs.com/starter/installing.html) y se siguieron los pasos indicados:
-![Express](../sytw/images/s6.png "Express")
+![Express](images/s6.png "Express")
 
 3. Se comprobó la corracta instalación :
-![Express2](../sytw/images/s66.png "Express2")
+![Express2](images/s66.png "Express2")
 
 
 ##  Traductores
@@ -52,15 +52,15 @@ A continuación se muestran los pasos de instalción de Pandoc and Kramdown:
 2. Se utilizó el comando como Super: apt-get install Pandoc
 
 3. Se comprobó su correcta instalación:
-![Pandoc](../sytw/images/s7.png "Pandoc")
+![Pandoc](images/s7.png "Pandoc")
 
 ### Kramdown
 
 1. Se accedió a la página de [Kramdown](http://kramdown.gettalong.org/installation.html) y se siguieron los pasos indicados:
-![Kramdown](../sytw/images/s12.png "Kramdown")
+![Kramdown](images/s12.png "Kramdown")
 
 2. Se comprobó su correcta instalación:
-![Kramdown2](../sytw/images/s10.png "Kramdown2")
+![Kramdown2](images/s10.png "Kramdown2")
 
 ## Atom
 
@@ -71,4 +71,4 @@ Para su instalación se debe ir a la página de [Atom](https://atom.io/) y desca
 Atom se ha instalado en Windows, para trabajar desde fuera de la máquina virtual de Linux.
 
 Como se puede apreciar en la siguiente imagen.
-![sywt](../sytw/images/s13.png "sywt")
+![sywt](images/s13.png "sywt")
