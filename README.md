@@ -14,12 +14,15 @@ NodeJS es un driven framework de eventos asincronos, esta diseñado para constru
 A continuación se muestran los pasos seguidos para su instalación:
 
 1. Se accedió a la página de [NodeJS](https://nodejs.org/en/download/package-manager/) y se siguieron los pasos indicados:
+
 ![nodejs](images/snode1.PNG "nodejs")
 
 2. Se comprobó la correcta instalación del NodeJS:
+
 ![nodejs2](images/s9.PNG "nodejs2")
 
 3. Se comprobó la correcta instalación del npm:
+
 ![nodejs3](images/s8.PNG "nodejs3")
 
 
@@ -33,9 +36,11 @@ A continuación se muestran los pasos seguidos para su instalación:
 1. Se instaló NodeJS
 
 2. Se accedió a la página de [Express](http://expressjs.com/starter/installing.html) y se siguieron los pasos indicados:
+
 ![Express](images/s6.PNG "Express")
 
 3. Se comprobó la corracta instalación :
+
 ![Express2](images/s66.PNG "Express2")
 
 
@@ -52,14 +57,17 @@ A continuación se muestran los pasos de instalción de Pandoc and Kramdown:
 2. Se utilizó el comando como Super: apt-get install Pandoc
 
 3. Se comprobó su correcta instalación:
+
 ![Pandoc](images/s7.PNG "Pandoc")
 
 ### Kramdown
 
 1. Se accedió a la página de [Kramdown](http://kramdown.gettalong.org/installation.html) y se siguieron los pasos indicados:
+
 ![Kramdown](images/s12.PNG "Kramdown")
 
 2. Se comprobó su correcta instalación:
+
 ![Kramdown2](images/s10.PNG "Kramdown2")
 
 ## Atom
