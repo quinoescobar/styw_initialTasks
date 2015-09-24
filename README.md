@@ -80,3 +80,20 @@ Atom se ha instalado en Windows, para trabajar desde fuera de la máquina virtua
 
 Como se puede apreciar en la siguiente imagen.
 ![sywt](images/s13.PNG "sywt")
+
+
+## Generación HTML
+
+Para convertir de formato a HTML se usó Pandoc.
+
+Pasos seguidos para la creación del fichero .html:
+
+1. Se abrió una terminal
+
+2. Se utilizó el comando Pandoc -s -o fichero.html ficheroaConvertir.md
+
+![pandocHTML](images/s14.PNG "pHTML")
+
+3. Comprobación página creada
+
+![pandocHTML2](images/s15.PNG "pHTML2")
