@@ -1,7 +1,7 @@
 # TUTORIAL
 Este tutorial ha sido escrito en formato Markdown.
 
-Enlace a la página [Tutorial](https://quinoescobar.github.io/styw_initialtask)
+Enlace a la página [Tutorial](https://quinoescobar.github.io/styw_initialTasks)
 
 En el presente tutorial se explica el proceso de instalación de Nodejs , Express, Pandoc and Kramdown, y también se muestra la creación del proyecto en la nube, Cloud9.
 
